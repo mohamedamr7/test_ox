@@ -18,8 +18,8 @@ class HomePage extends StatelessWidget{
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Text(
-                        "XO",
+                       Text(
+                         "XO",
                         style: TextStyle(
                             fontSize: 50,
                             fontWeight: FontWeight.bold,
